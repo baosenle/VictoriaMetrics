@@ -24,10 +24,10 @@
     "dayjs": "^1.11.13",
     "lodash.debounce": "^4.0.8",
     "marked": "^16.0.0",
-    "preact": "^10.26.9",
+    "preact": "^10.26.10",
     "qs": "^6.14.0",
     "react-input-mask": "^2.0.4",
-    "react-router-dom": "^7.6.3",
+    "react-router-dom": "^7.12.0",
     "uplot": "^1.6.32",
     "vite": "^7.0.4",
     "web-vitals": "^5.0.3"
