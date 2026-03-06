@@ -25,6 +25,7 @@ See also [LTS releases](https://docs.victoriametrics.com/victoriametrics/lts-rel
 ## tip
 
 * FEATURE: upgrade Go builder from Go1.24.6 to Go1.25. See [Go1.25 release notes](https://tip.golang.org/doc/go1.25).
+* DOCS: add documentation on integrating [mcp-grafana](https://github.com/grafana/mcp-grafana) with Claude Code for AI-driven access to VictoriaMetrics metrics through Grafana. See [Grafana integration docs](https://docs.victoriametrics.com/victoriametrics/integrations/grafana/#ai-integration-via-mcp-grafana-and-claude-code).
 
 ## [v1.124.0](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.124.0)
 
